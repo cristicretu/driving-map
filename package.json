@@ -14,9 +14,11 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@mapbox/mapbox-gl-directions": "github:mapbox/mapbox-gl-directions",
     "@types/mapbox-gl": "^2.7.12",
     "eslint-config-prettier": "^8.7.0",
     "mapbox-gl": "^2.15.0",
+    "mapbox-gl-controls": "^2.3.5",
     "next": "^13.2.4",
     "next-themes": "^0.2.1",
     "react": "^18.2.0",
@@ -36,6 +38,7 @@
     "eslint-plugin-react": "^7.32.2",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.0",
+    "mapbox-gl-directions": "link:@types/@mapbox/mapbox-gl-directions",
     "postcss": "^8.4.21",
     "prettier": "^2.8.4",
     "tailwindcss": "^3.2.7",
