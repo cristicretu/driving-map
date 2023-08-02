@@ -6,4 +6,4 @@ This is a map visualizer to showcase your epic journeys on wheels. Add routes yo
 
 [Live website](https://driving-map.vercel.app/)
 
-<img width="1674" alt="image" src="https://github.com/cristicretu/driving-map/assets/45521157/87d1a05f-4c57-4a8a-95fa-2b45599d8c9c">
+<img width="1674" alt="image" src="https://github.com/cristicretu/driving-map/assets/45521157/512b9432-5691-449e-b2f0-2229c9263435">
