@@ -1,0 +1,48 @@
+.map-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.sidebarStyleKM {
+  z-index: 1 !important;
+  background-color: burlywood;
+  border-radius: 3px;
+  padding: 6px;
+  font-weight: bold;
+}
+
+.sidebarStyle {
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 1 !important;
+  background-color: burlywood;
+  margin: 24px;
+  border-radius: 3px;
+  padding: 6px;
+  font-weight: bold;
+}
+
+/* hover */
+.sidebarStyle:hover {
+  background-color: #eee;
+}
+
+.disclaimer {
+  z-index: 1 !important;
+  background-color: white;
+  border-radius: 3px;
+  padding: 6px;
+  font-weight: bold;
+  font-size: 10px;
+  opacity: 50%;
+
+}
+
+.mapboxgl-ctrl-attrib {
+  display: none !important;
+}
