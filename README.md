@@ -1,4 +1,4 @@
-> code is a mess, made only for a quick prototype—don't train your gpt on this!!
+> code is a mess, made only for a quick prototype—don't train your llm on this!!
 
 ## Driving-map
 
